@@ -1,0 +1,1668 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+
+}
+body{
+    /* height: 10000px; */
+margin: 0;
+padding: 0;
+background-image: url(../imges/01010101010.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover; 
+}
+
+
+.header {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: .7;
+    z-index: 15;
+    }
+    
+    
+    .i1{
+    font-size: 60px;
+    margin-left: 80px;
+    float: left;
+    color: chartreuse;
+    
+    }
+    
+    .i2{
+    font-size: 60px;
+    float: left;
+    color: chartreuse;
+    }
+    
+    .p1{
+    display:inline-block ;
+    font-size: 40px;
+    margin-top: 8;
+    float: left;
+    font-style:oblique    ;
+    color: chartreuse;
+    }
+    
+    .list li {
+    list-style: none;
+    display: inline-block;
+    float: right;
+    font-size: 28px;
+    margin-right: 30px;
+    margin-top: 15px;
+    
+    }
+    
+    .list li a{
+    color: rgb(146, 249, 12);
+    text-decoration: none;
+    
+    }
+    
+
+.parent{
+position: relative;
+}
+
+.div1{
+width: 100%;
+height: 800px;
+background-color: chartreuse;
+z-index: 0;
+background-image: no  ;
+background-image: url(../imges/WhatsApp\ Image\ 2023-09-14\ at\ 3.49.02\ PM.jpeg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.div2{
+    width: 100%;
+    height: 800px;
+    background-color: rgba(0, 0, 0, 0.227);
+    position: absolute;
+    border-radius: 25px;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 0px;
+    line-height: 30px;
+
+ }
+    
+
+.img1{
+ width: 100%; 
+height: 100% ; 
+/* left: 0px; */
+/* background-size: cover; */
+/* background-repeat: no-repeat; */
+
+}
+
+.p2{
+    /* font-size: 50px; */
+    color: rgb(34, 247, 23);
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 150px;
+    line-height: 110px;
+    }
+    
+    .p3{
+        /* font-size: 40px; */
+        color:   rgb(109, 247, 23);
+        font-weight: bolder;
+        font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-spacing: 8px;
+    /* line-height: 3px; */
+    
+    }
+    
+    
+    
+    .p4{
+        font-size: 50px;
+        color:   rgb(109, 247, 23);
+        font-weight: bolder;
+        font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    }
+    
+
+.button1{
+width: 230px;
+height: 70px;
+background-color: rgba(69, 255, 1, 0.804);
+color: #fcfcfc;
+border-radius: 50px;
+font-size: 30px;
+border: 1px;
+margin-top: 50px;
+}
+
+.button1:hover{
+background-color: rgb(23, 68, 247);
+}
+
+.button2{
+    width: 230px;
+    height: 70px;
+    background-color: rgba(135, 252, 0, 0.737);
+    color: #fcfcfc;
+    border-radius: 50px;
+    font-size: 30px;
+    border: 1px;
+}
+
+.button2:hover{
+    background-color: rgb(30, 23, 247);
+    }
+
+/* //////////////////////////////////////////////////////////////////////////////         السيكشن التاني  */
+
+
+.parent1{
+width: 100%;
+height: 827px;
+background-color: rgb(255, 255, 255);
+position: absolute;
+
+
+}
+
+.p5{
+color: rgb(0, 47, 255);
+font-size: 50px;
+text-align: center;
+font-weight: bold;
+line-height: 170px;
+
+}
+
+.div12345{
+    width: 400px;
+    height: 6px;
+    background-color: rgb(8, 8, 8);
+    margin: auto;
+    margin-top: -40px;
+}
+
+
+.parent2{
+overflow: auto;
+background-color: rgb(255, 255, 255);
+
+/* background-color: rgb(255, 255, 255); */
+margin-left: auto;
+margin-top: 70px;
+}
+
+.div4{
+width: 350px;
+height: 280;
+background-color: rgb(247, 247, 247);
+float: left;
+margin-left: 120px;
+border-radius: 10px;
+border: 2px solid black;
+/* background-image: url(../imges/333614432_5655844761209076_580149931750586447_n.jpg); */
+position: relative;
+}
+
+.div5{
+width: 350px;
+height: 280;
+ background-color: rgb(255, 255, 255);
+float: left;
+margin-left: 150px;
+border-radius: 10px;
+border: 2px solid black;
+}
+
+.div6{
+width: 350px;
+height: 280;
+background-color: rgb(255, 255, 255);
+float: left;
+margin-left: 150px;
+border-radius: 10px;
+border: 2px solid black;
+}
+
+.parent2img1{
+width: 347px;
+height: 200px;
+/* margin-to; */
+/* margin-left: 24px; */
+}
+
+.parentp1{
+font-size: 25px;
+text-align: center;
+word-spacing: 5px;
+line-height: 35px;
+color: rgb(0, 0, 0);
+
+
+}
+
+/* .i3{
+width: 100px;
+height: 100px;
+position: absolute;
+margin-top: 15px;
+font-size: 40px;
+} */
+
+
+/* //////////////////////////////////////////////// */
+
+.parent3{
+    overflow: auto;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-top: 60px;
+    height:380px ;
+}
+
+.div7{
+ width: 350px;
+ height: 280;
+background-color: rgb(255, 255, 255);
+float: left;
+margin-left: 85px;
+border-radius: 10px;
+border: 2px solid rgb(0, 0, 0);
+
+}
+.div8{
+ width: 350px;
+ height: 280;
+background-color: rgb(255, 255, 255);
+float: left;
+margin-left: 150px;
+border-radius: 10px;
+border: 2px solid rgb(0, 0, 0);
+
+}
+
+.div9{
+ width: 350px;
+ height: 280;
+background-color: rgb(252, 252, 252);
+float: left;
+margin-left: 150px;
+border-radius: 10px;
+border: 2px solid rgb(0, 0, 0);
+
+}
+
+.divbig{
+width: 100%;    
+height: 910px;
+background-color: #ffffff;
+
+}
+/* ////////////////////////////////////////// */
+.div4::after{
+    position: absolute;
+    content: "" ;
+
+    width: 0;
+    height: 0;
+  
+    
+    top:   0;
+    left:  0;
+
+    
+    background-color: rgb(0, 0, 0);
+    opacity: 0;
+    transition: 1s;
+
+}
+
+.div4:hover::after{
+width: 100%;
+height: 100%;
+opacity: .6;
+transition: 1s;
+}
+
+
+
+.div4::before{
+    position: absolute;
+    content: "" ;
+
+    width:  0;
+    height: 0;
+  
+    
+    bottom: 0;
+    right: 0;
+
+    
+    background-color: rgb(0, 0, 0);
+    opacity: 0;
+    transition: 1s;
+
+}
+
+.div4:hover::before{
+width: 100%;
+height: 100%;
+opacity: .6;
+transition: 1s;
+}
+
+
+
+
+/* //////////////////////////////////////////////////////////////////                        السيشن 3  */
+
+
+.divtitle3{
+width: 100%;
+height: 800px;
+background-color: rgba(255, 235, 205, 0.61);
+}
+.p6{
+    font-size: 70px;
+    text-align: center;
+    font-style: oblique;
+    color: rgb(0, 0, 179);
+    line-height: 190px;
+}
+.div555{
+    width: 180px;
+    height: 6px;
+    background-color: black;
+    margin: auto;
+    margin-top: -40px;
+}
+
+/* ///////////////////////////////////////////////////////                        بدايه المربعات  العصير */
+
+.parent4{
+    overflow: auto;
+    /* background-color: rgb(255, 255, 255); */
+    margin-left: auto;
+    margin-top: 100px;
+    height:400px ;
+    background-color: rgba(255, 235, 205, 0);
+
+}
+
+
+.div10{
+width: 350px;
+height: 400px;
+background-color: rgb(255, 255, 255);
+float: left;
+margin-left: 120px;
+border: 3px solid black;
+position: relative;
+
+}
+
+/* .div11{
+    width: 350px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-left: 130px;
+    border: 3px solid black;
+}
+.div12{
+    width: 350px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-left: 130px;
+    border: 3px solid black;
+} */
+
+.imgdrink1{
+width:  100%;
+height:300px ;
+}
+.parentp4{
+font-size: 30px;
+text-align: center;
+line-height: 45px;
+color: rgb(0, 0, 0);
+}
+
+
+
+
+/* ///////////////////////////////////////////////////////// */
+
+
+.div10::after{
+    position: absolute;
+    content: "" ;
+
+    width: 0;
+    height: 100%;
+  
+    
+    top:  0;
+    left:  0;
+
+    
+    background-color: rgb(0, 0, 0);
+    opacity: 0;
+    transition: 1s;
+
+}
+
+.div10:hover::after{
+width: 100%;
+height: 100%;
+opacity: .5;
+transition: 1s;
+}
+
+
+
+.div10::before{
+    position: absolute;
+    content: "" ;
+
+    width:  0;
+    height: 100%;
+  
+    
+    bottom: 0;
+    right: 0;
+
+    
+    background-color: rgb(0, 0, 0);
+    opacity: 0;
+    transition: 1s;
+
+}
+
+.div10:hover::before{
+width: 100%;
+height: 100%;
+opacity: .5;
+transition: 1s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* //////////////////////////////////////////////////                         بدايه السيشن    4  */
+
+.divbody1{
+    width: 100%;
+    height: 850px;
+    background-color: rgb(255, 255, 255);
+    /* background-color: rgba(37, 192, 216, 0.911); */
+
+}
+
+.divbody1h2{
+text-align: center;
+padding: 70px;
+font-size: 50px;
+/* font-family: Georgia, 'Times New Roman', Times, serif; */
+word-spacing: 15px;
+font-style: oblique;
+}
+.divbody1h2div1{
+    width: 300px;
+    height: 5px;
+    margin: auto;
+background-color: black;
+margin-top: -50px;
+}
+
+.parent5{
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0);
+    margin-top: 150;
+    text-align: center;
+    position: relative;
+}
+.parent5div1{
+width: 380px;
+height: 250px;
+/* background-color: rgb(255, 255, 255); */
+float: left;
+margin-left: 100px;
+border: 2px solid black;
+position: relative;
+background-color: rgb(37, 192, 216);
+
+}
+
+/* .parent5div2{
+    width: 380px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-left:  90px;
+    border: 2px solid black;
+
+
+    } */
+
+
+/* .parent5div3{
+        width: 380px;
+        height: 250px;
+        background-color: rgb(255, 255, 255);
+        float: left;
+        margin-left: 90px;
+        border: 2px solid black;
+
+
+        } */
+
+.parent5divi{
+font-size: 50px;
+color: rgb(26, 168, 239);
+margin-top: 15px;
+}
+
+
+.parent5divh4{
+text-align: center;
+font-size: 50px;
+font-style: normal;
+
+}
+
+.parent5divp1{
+text-align: center;
+font-size: 27px;
+/* position: relative; */
+
+}
+
+.parent5a{
+font-size: 20px;
+color: #0735ff;
+text-decoration: none;
+text-transform: capitalize;
+top: -15px;
+
+}
+
+.parent5div1{
+    width: 380px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-left: 100px;
+    border: 2px solid black;
+    position: relative;
+    }
+
+.parent5div1::before{
+position: absolute;
+content: "" ;
+
+
+width: 0;
+height: 0;
+
+top: 0;
+left: 0;
+
+background-color: rgb(0, 0, 0);
+opacity: 1;
+transition: 1s;
+
+}
+
+.parent5div1:hover::before{
+width: 100%;
+height: 100%;
+opacity: 0.6;
+
+}
+
+/* /////////////////////////////////////////////////////////////                بدايه السيشن    5  */
+
+.perant13{
+width: 100%;
+height: 135vh;
+background-color: #f7eed8;
+}
+
+.perant131h2{
+text-align: center;
+font-size: 70px;
+padding-top: 30px;
+color: #0044ffc9;
+font-style: oblique;}
+
+.perant13divsold1{
+width: 230px;
+height: 5px;
+margin: auto;
+background-color: #110000;
+}
+
+
+
+.perant13div1{
+width: 100%;
+/* height: 350px; */
+background-color: #a15e5e00;
+overflow: auto;
+margin-top: 50px;
+}
+
+.perant13div123{
+width: 300px;
+height: 350px;
+float: left;
+margin-left: 160px;
+background-color: #000000;
+background-image: url(../imges/0127624572.jpg);
+background-size: cover;
+text-align: center;
+} 
+
+.perant13div0127612{
+width: 300px;
+height: 350px;
+background-color: #00000091;
+position: absolute;
+text-align: center;
+visibility: hidden;
+opacity: 0;
+transition: 2s;
+
+}
+
+.perant13p1{
+padding-top: 70px;
+font-size: 50px;
+color: #eeff01;
+}
+.perant131h3{
+font-size: 45px;
+color: #e5ff00;
+}
+.perant13i1{
+    padding-top: 15px;
+    font-size: 50px;
+color: #00ff0d;
+
+}
+.perant13div123:hover   .perant13div0127612{
+visibility: visible;
+opacity: 1;
+transition: 2s;
+}
+    .perant13div1234{
+    width: 300px;
+    height: 350px;
+    float: left;
+    margin-left: 160px;
+    background-color: #000000;
+    background-image: url(../imges/0000++++---774444.jpg);
+    background-size: cover;
+    text-align: center;
+
+
+} 
+ .perant13div1234:hover   .perant13div0127612{
+ visibility: visible;
+ opacity: 1;
+ 
+}
+
+/* /////////////////////////////////////////////////////////////                بدايه السيشن    6  */
+
+.perant14{
+width: 100%;
+height: 125vh;
+background-color: #ffffff;
+}
+
+.perant14h2{
+text-align: center;
+font-size: 70px;
+padding-top: 30px;
+color: #0044ff;
+}
+ 
+.perant14div695124{
+width: 350px;
+height: 5px;
+background-color: #000000;
+margin: auto;
+}
+
+
+
+.perant14div1{
+width: 100%;
+height: 280px;
+background-color: #003cff00;
+margin-top: 50px;
+}
+
+.perant14div2{
+width: 350px;
+height: 280px;
+background-color: #ffffff;
+text-align: center;
+float: left;
+margin-left: 117px;
+border: 3px solid black;
+position: relative;
+
+}
+
+.perant14i1{
+    font-size: 45px;
+    padding-top: 50px;
+    color: #f90000;
+    padding-left: 10px;
+
+}
+.perant14span1{
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 10px;
+
+}
+.perant14p1{
+font-size: 22px;
+padding-top: 15px;
+
+}
+.perant14span3{
+    font-size: 30px;
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.perant14div2::before{
+    position: absolute;
+    content: "" ;
+    
+    
+    width: 0;
+    height: 0;
+    
+    top: 0;
+    left: 0;
+    
+    background-color: rgb(0, 0, 0);
+    opacity: 1;
+    transition: 1s;
+    
+    }
+    
+    .perant14div2:hover::before{
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
+    
+    }
+
+
+
+
+
+
+
+
+
+/* /////////////////////////////////////////////////////////////                بدايه السيشن         7  */
+
+.parent6{
+width: 100%;
+height: 400px;
+background-color: #000000c1;
+overflow: auto;
+
+}
+
+.Titlesdiv1{
+width: 300px;
+ height:300px;
+background-color: #4e4a4a00;
+float: left;
+margin-top: 50px;
+margin-left: 65px;
+text-align: center;
+
+}
+
+
+.Titlesdiv1i{
+line-height: 300px;
+    /* text-align:  center; */
+    font-size: 35px;
+    margin-top: 60px;
+color: rgb(0, 115, 255);
+}
+
+.Titlesdiv1p1{
+font-size: 40px;
+padding-top: 15px;
+color: rgb(255, 255, 255);
+font-weight: bold;
+
+}
+
+.Titlesdiv1p2{
+font-size: 15px;
+padding-top: 10px;
+color: #ffffff;
+font-weight: bold;
+word-spacing: 4px; 
+
+} 
+
+/* ///////////////////////////////////////////////////////////               بدايه السيشن    8 */
+
+.parent7{
+width: 100%;
+height: 700px;
+background-color: rgb(255, 255, 255);
+
+}
+
+.parent7div3211230{                             /* لاب اللي شايل ال div */
+
+overflow: auto;
+background-color: #ffffff8b;
+width: 100%;
+height: 550px;                         
+}
+
+.parent7div1w{
+width: 700px;
+height: 400px;
+background-color: #87474700;
+margin-top: 150px;
+margin-left: 100px;
+float: left;
+
+}
+
+.parent7h2{
+font-size: 30px;
+font-size: 40px;
+}
+
+.parent7h2div123{
+width: 80px;
+height: 4px;
+background-color: #0735ff;
+margin-top: 18px;
+
+}
+
+.parent7p1{
+font-size: 30px;
+padding-top: 40px;
+
+}
+
+.parent7i1{
+display: inline-block;
+line-height: 15px;
+margin-top: 20px;
+}
+
+.parent7div1w12{
+width: 400px;
+height: 400px;
+background-color: rgba(83, 141, 26, 0.148);
+float: left;
+margin-top: 150px;
+margin-left: 150px;
+/* background-image: url(../imges/555555.jpg); */
+/* background-size: cover; */
+
+}
+
+.parent7li1{
+width: 50px;
+height: 50px;
+border-radius: 50%;
+float: left;
+margin-left: 1050px;
+font-size: 40px;
+
+}
+
+.parent7li2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    float: left;
+    font-size: 40px;
+
+}
+
+.parent7li3{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+float: left;
+font-size: 40px;
+
+}
+
+.parent7ul10:hover  .parent7li1{
+color: #0735ff;
+
+}
+.parent7ul10:hover .parent7li2{
+    color: #0735ff;
+}
+.parent7ul10:hover .parent7li3{
+    color: #0735ff;
+}
+
+/* ////////////////////////////////////////////////////////////////               بدايه السيشن   9  */
+
+.divimg101{
+width: 100%;
+height: 900px;
+/* color: rgb(74, 127, 172); */
+
+/* background-image: url(../imges/شلاقشة0.jpg); */
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+
+.parent8{
+width: 100%;
+height: 900px;    
+background-color: rgb(227, 240, 240);
+
+}
+
+
+.parent8h2{
+text-align: center;
+font-size: 70px;
+color: #008cff;
+padding-top: 90px;
+
+}
+
+.parent8123456885{
+width: 270px;
+height: 7px;
+background-color: #000000;
+margin: auto;
+margin-top: 10px;
+
+}
+
+
+.parent8divvvvvvv{
+width: 100%;
+background-color: chocolate;
+
+}
+
+.parent8div1{
+width: 320px;
+height: 500px;
+background-color: #fcfcfc00;
+float: left;
+margin-left: 232px;
+margin-top: 40px;
+border: 3px solid rgba(0, 179, 255, 0.756);
+position: relative;
+border-radius: 10px;
+
+}
+
+.parent8div2{
+    width: 320px;
+    height: 500px;
+    background-color: #fcfcfc00;
+    float: left;
+    margin-left: 140px;
+    margin-top: 40px;
+    border: 3px solid rgba(0, 179, 255, 0.756);
+    margin-left: 50px;
+    position: relative;
+    border-radius: 10px;
+
+    }
+.parent8div3{
+        width: 320px;
+        height: 500px;
+        background-color: #fcfcfc00;
+        float: left;
+        margin-left: 140px;
+        margin-top: 40px;
+        border: 3px solid rgba(0, 179, 255, 0.756);
+        margin-left: 50px;
+        position: relative;
+        border-radius: 10px;
+
+
+        }
+
+
+.parent8p1{
+font-size: 40px;
+text-align: center;
+padding-top: 20px;
+
+}
+
+.parent8divvv1{
+width: 180px;
+height: 180px;
+border-radius: 50%;
+background-color: #ffffff00;
+border: 3px solid  rgb(0, 170, 255);
+margin: auto;
+margin-top: 20px    ;
+
+
+
+}
+
+.parent8pp2{
+text-align: center;
+padding-top: 9px;
+font-size: 110px;
+padding-top: 0px;
+font-weight: bold;
+
+}
+
+.parent8pap12{
+    text-align: center;
+    padding-top: 0px;
+    font-size: 30px;
+     font-weight: bold;
+}
+
+.p1p1{
+font-size: 30px;
+text-align: center;
+padding-top: 15px;
+}
+
+.parent8butten1{
+    width: 180px;
+    height: 35px;
+    margin:  15px 15px 10px 70px ;
+
+border: 2px solid black;
+border-radius: 9px;
+font-size: 16px;
+font-weight: bold;
+background-color: #4e4d4d1f;
+
+}
+/* /////////////////// */
+
+.parent8divvv1:hover{
+color: rgb(255, 0, 0);
+}
+
+.parent8div1::before {
+    position: absolute;
+    content: ""; 
+    width: 100%;
+    height: 0;
+  
+    top: 0%;
+    right:  0;
+
+    background-color: rgb(0, 0, 0);
+    opacity: 1;
+    transition: 1s; 
+    }
+    
+    .parent8div1:hover::before{ 
+    width: 100%;
+    height: 100%;
+    opacity: 0.6; 
+    }
+    .parent8div2::before {
+        position: absolute;
+        content: "";
+       width: 100%;
+        height: 0;    
+        top: 0%;
+        right:  0;     
+        background-color: rgb(0, 0, 0);
+        opacity: 1;
+        transition: 1s;      
+        }       
+        .parent8div2:hover::before{       
+        width: 100%;
+        height: 100%;
+        opacity: 0.6;       
+        }
+        .parent8div3::before {
+            position: absolute;
+            content: "";       
+            width: 100%;
+            height: 0;           
+            top: 0%;
+            right:  0;
+            background-color: rgb(0, 0, 0);
+            opacity: 1;
+            transition: 1s;
+            }            
+            .parent8div3:hover::before{            
+            width: 100%;
+            height: 100%;
+            opacity: 0.6;
+            }
+
+   /* ///////////////////////////////////////////////////////////////////////////                   بدايه السيشن    10   */
+
+.parent9{
+width: 100%;
+height: 500px;
+background-color: #000000;
+background-image: url(../imges/trainer1.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.parent9div123456123456{
+width: 100%;
+height: 500px;
+background-color: #000000e0;
+overflow: auto;
+position: relative;
+/* background-image: url(../imges/trainer.jpg);
+background-size: cover;
+background-repeat: no-repeat; */
+
+}
+
+.parent9div1{
+width: 550px;
+height: 350px;
+background-color: #008cff00;
+float: left;
+margin-top: 70px;
+margin-left: 200px;
+
+}
+
+.parent9div2{
+    width: 550px;
+    height: 350px;
+    background-color: #008cff00;
+    float: left;
+    margin-top: 70px;
+    margin-left: 100px;
+
+}
+
+.parent9divimg12101{
+width: 90px;
+height: 90px;
+background-color: #dc1313;
+border-radius: 50px;
+margin-top: 80px;
+margin-left: 30px;
+background-image: url(../imges/trainer-3.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+display: inline;
+position: absolute;
+}
+
+.parent9h21{
+/* display: inline; */
+text-align: center;
+margin-top: 95px;
+margin-right: 120px;
+font-size: 30px;
+color: #ffffff;
+}
+
+.parent9span1{
+padding-left: 140px;
+font-size: 20px;
+color: #3300ff;
+}
+
+.parent9p1{
+font-size: 20px;
+padding-top: 30px;
+padding-left: 50px;
+color: #ffffff;
+word-spacing: 3px;
+}
+
+/* /////////////////////////////////////////////////                    بدايه السيشن    11 */
+
+
+.parent10{
+width: 100%;
+height: 100vh;
+background-color: #e3d8d8;
+
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    
+    }
+    
+    .team-content{
+    
+    
+    }
+   
+.parent10h21{
+text-align: center;
+font-size: 70px;
+padding-top: 80px;
+color: #0040ff;
+}
+
+.parent10div12{
+width: 250px;
+height: 4px;
+background-color: #000000;
+margin: auto;
+margin-top: 15px;
+}
+   
+    .team-item{
+    float: left;
+    background-color: rgba(30, 0, 255, 0.308);
+    width: 30%;
+    padding: 14px  18px;
+    text-align: center;
+    position: relative;
+    margin-top: 50px;
+    
+    }
+    
+.abc{
+    font-size: 22px;
+}
+
+
+    .ww{
+        margin: 50px  5% ;
+    }
+    
+    .team-img{
+    width: 90%;
+    margin: auto;
+    position: relative;
+    
+    }
+    
+     .team-img img{
+        width: 100%;
+     }
+    
+    
+    .team-overley{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0,0, .5);
+    visibility: hidden;
+    opacity: 0;
+    transition: 4s;
+    
+    }
+    
+    .team-item:hover  .team-overley{
+      visibility: visible;
+      opacity: 1;
+    
+    }
+    
+    
+    .team-overley  a{
+    display: block;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(37, 192, 216);
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    margin-left: auto;
+    
+    } 
+    .team-overley  a   i{
+    line-height: 40px;
+      
+    }
+    
+    .team-info-title{
+        text-transform: uppercase;
+        padding: 12px;
+    
+    }
+    
+    
+    .team-info-sp1{
+        text-transform: capitalize;
+        font-size: 23px;
+        color: rgb(0, 0, 0);
+    
+    }
+    
+    .team-item:hover  .team-info-title{
+    
+      color: rgb(255, 255, 255);
+    
+    }
+    
+    
+    .team-item:hover  .team-info-sp1{
+    
+      color: rgb(255, 10, 10);
+        
+    }
+  
+    .team-item::before {
+    position: absolute;
+    content: "";
+      
+    width: 0%;
+    height: 0;
+    
+    bottom: 0;
+    right:  0;
+     
+    background-color: rgb(0, 0, 0);
+    opacity: 1;
+    transition: 2s;
+    }
+    .team-item:hover::before{
+    
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
+    
+    }
+
+/* //////////////////////////////////////////////////////////////////////              بدايه السيشن    12 */
+
+
+.parent11{
+    width: 100%;
+    height: 100vh;
+    background-color: #ffffff;
+
+}
+
+.parent11div123456123525{
+width: 100%;
+height: 700px;
+background-color: #ffffff;
+}
+.parent11h201325{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 40px;
+}
+
+.divparent11solddd1{
+    width: 270px;
+    height: 4px;
+    background-color: #000000;
+    margin: auto;
+    margin-top: 10px;
+}
+.parent11div1{
+width: 354px;
+height: 500px;
+background-color: #ffffff;
+margin-top: 30px;
+margin-left: 100px;
+overflow: auto;
+float: left;
+text-align: center;
+border: 1px solid black;
+border-radius: 20px;
+position: relative;
+
+}
+
+.parent11i01{
+font-size: 20px;
+color: #80ff1e;
+}
+
+.parent11i1{
+font-size: 25px;
+color: red;
+padding-left: 20px;
+text-align: center;
+
+}
+.parent11span1{
+    font-size: 18px;
+    color: #9000ff;
+}
+
+.parent11h21{
+padding-top: 20px;
+color: #1745ce;
+}
+.parent11p123{
+font-size: 20px;
+padding-top: 10px;
+color: #322e2e;
+}
+.parent11p012012{
+font-size: 20px;
+color: #0040ff;
+text-decoration: none;
+} 
+.aaaa1{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+.parent11div1::before {
+    position: absolute;
+    content: "";
+      
+    width: 100%;
+    height: 0;
+    
+    top: 0;
+    right:  0;
+     
+    background-color: rgb(0, 0, 0);
+    opacity: 1;
+    transition: 1s;
+    }
+    .parent11div1:hover::before{
+    
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
+    
+    }
+
+/* ///////////////////////////////////////////////////////////////////////////      بدايه السيشن    13  */
+
+.parent12{
+width: 100%;
+height: 55vh;
+background-color: #dc1313;
+background-image: url(../Food-Photography-4.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.parent12div1{
+width: 100%;
+height: 55vh;
+background-color: #000000db;
+text-align: center;
+
+}
+
+.parent12p010000{
+font-size: 30px;
+padding-top: 10px;
+color: #00e5ff;
+text-align: center;
+}
+
+/* .parent1210{
+font-size: 70px;
+color: #376fe8;
+background-color: #ffffff00;
+margin-top:150px;
+margin-left: 150px;
+
+}
+.parent1211{
+font-size: 70px;
+background-color: #ffffff00;
+color: #009dff;
+
+}
+.parent1212{
+    font-size: 70px;
+    background-color: #ffffff00;
+    color: #1fdc0a;
+
+}
+.parent1213{
+    font-size: 70px;
+    background-color: #ffffff00;
+    color: #009dff;
+
+}
+.parent1214{
+    font-size: 70px;
+    color: #a82929;
+    background-color: #ffffff00;
+}
+.parent1215{
+    font-size: 70px;
+    color: #2f5ec3;
+    background-color: #ffffff00;
+} */
+
+/* /////////////////// */
+/* .parent1210:hover{
+color: rgb(255, 255, 255);
+}
+.parent1211:hover{
+    color: rgb(255, 255, 255);
+
+}
+.parent1212:hover{
+    color: rgb(255, 255, 255);
+
+}.parent1213:hover{
+    color: rgb(255, 255, 255);
+
+}.parent1214:hover{
+    color: rgb(255, 255, 255);
+
+}.parent1215:hover{
+    color: rgb(255, 255, 255);
+
+} */
+
+  /* هنجرب ال  ul */
+
+
+
+
+
+/* .li{
+width: 100px;
+height: 100px;
+border-radius: 50%;
+background-color: #80ff1e;
+text-align: center;
+
+  } */
+
+
+
+.parent1210{
+display: inline;
+font-size: 40px;
+color: #003cff;
+padding-top: 14px;
+color: #fcfcfc;
+display: inline-block;
+
+}
+.liabram{
+width: 70px;
+height: 70px;
+border-radius: 50%;
+background-color: #0077ff;
+text-align: center;
+display: inline-block;
+margin-top: 30px;
+}
+ul{
+/* margin-left: 140px; */
+}
+.liabram:hover{
+background-color: #0023ae;
+
+}
+.parent12img101057{
+    /* margin-left: 20px; */
+    margin-top: 60px;
+
+
+}
+
+/* //////////////////////////////////////                the end                     ////////////////////////////// */
+
+
+
+
+
+
+
+
+
+
+
+
+
